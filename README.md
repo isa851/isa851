@@ -1,11 +1,10 @@
 <h1 align="center">Привет! 👋 Я Иса</h1>
 
 💫 **Обо мне**:
-- 🌱 Сейчас учусь в IT-колледже  
 - 🔭 Изучаю Frontend и создаю проекты на React  
-- 🎯 Хочу стать full-stack разработчиком  
+- 🎯 Хочу стать full-stack разработчиком и доп изучаю  Backend  разработку
 
----
+--
 
 💻 **Технологический стек**:
 
@@ -15,19 +14,6 @@
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
-
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ---
-
-📊 **Статистика GitHub**:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ISA-USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
----
-
-🔝 **Top Contributed Repo**:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ISA-USERNAME&repo=REPO-NAME&theme=tokyonight" />
-</p>
