@@ -42,18 +42,12 @@
 ---
 
 
-## 🌐 Контакты
+## 🌐 Контакт
 <p align="center">
   <a href="https://t.me/Abdikalilov_Islam">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="mailto:isa904363@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  </a
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=isa851&label=Просмотры%20профиля&color=blueviolet&style=for-the-badge" />
-</p>
