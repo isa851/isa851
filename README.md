@@ -18,24 +18,27 @@
 </p>
 
 ---
-
 ## 🚀 Избранные проекты
 
 <p align="center">
   <a href="https://github.com/OshSUDiary">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=isa851&repo=OshSUDiary&theme=radical" />
   </a>
   <a href="https://github.com/Osh-Library">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=isa851&repo=Osh-Library&theme=radical" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/IDEALISPRO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=isa851&repo=IDEALISPRO&theme=radical" />
   </a>
 </p>
 
 <p align="center">
   🔗 <a href="https://github.com/isa851?tab=repositories">Смотреть все проекты</a>
 </p>
+
 
 ---
 
