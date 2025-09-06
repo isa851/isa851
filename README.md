@@ -23,16 +23,13 @@
 
 <p align="center">
   <a href="https://github.com/OshSUDiary">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OshSUDiary&repo=OshSUDiary&theme=radical" />
   </a>
   <a href="https://github.com/Osh-Library">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Osh-Library&repo=Osh-Library&theme=radical" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/isa851/IDEALIS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=isa851&repo=IDEALIS&theme=radical" />
+  <a href="https://github.com/IDEALISPRO">
   </a>
 </p>
 
@@ -54,12 +51,6 @@
 
 ---
 
-## 🐍 Змейка по коммитам
-<p align="center">
-  <img src="https://raw.githubusercontent.com/isa851/isa851/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
-
----
 
 ## 🌐 Контакты
 <p align="center">
