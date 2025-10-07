@@ -18,7 +18,7 @@
 </p>
 
 ---
-## 🚀 Избранные проекты
+## 🚀 Коммерческие проекты
 
 - 📘 [OshSUDiary](https://github.com/OshSUDiary)
 - 📚 [Osh-Library](https://github.com/Osh-Library)
