@@ -103,25 +103,24 @@ Frontend Development
 - 🇺🇸 Английский — начальный  
 
 ---
-
 ## 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=isa851&theme=radical&no-frame=false" />
+  <img src="https://github-profile-trophy.vercel.app/?username=isa851&theme=radical" alt="Trophies" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isa851&show_icons=true&theme=radical&hide_border=false" alt="Overall Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=isa851&show_icons=true&theme=radical" alt="Overall Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isa851&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isa851&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=isa851&theme=radical&hide_border=false" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=isa851&theme=radical" alt="Streak Stats" />
 </p>
 
 ---
