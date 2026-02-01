@@ -43,7 +43,7 @@ Backend понимаю на уровне **~40% (Django REST Framework)** — н
 ## ⚒️ Технологический стек
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,sass,redux,nextjs,tailwind,vite,python,django,git,github,gitlab,vscode,windsurf,cursor&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,sass,redux,nextjs,tailwind,vite,python,django,git,github,gitlab,vscode&perline=10" />
 </p>
 
 ---
