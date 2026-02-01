@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=Fullstack +Developer;React+%7C+JavaScript+%7C+TypeScript;Реальные+проекты%2C+а+не+песочница;Чищу+чужой+код+и+довожу+до+результата" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=Fullstack+Developer;React+%7C+JavaScript+%7C+TypeScript;Реальные+проекты%2C+а+не+песочница;Чищу+чужой+код+и+довожу+до+результата" />
 </p>
 
 <p align="center">
